@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/4a92029f-6fe1-4c5e-a754-304cd8e9fdad"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/4a92029f-6fe1-4c5e-a754-304cd8e9fdad.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/1f3e61eb-a021-42d7-8353-ec8fc6a59363"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/1f3e61eb-a021-42d7-8353-ec8fc6a59363.svg" alt="wakatime"></a>
 </p>
 
 ## 🚀 Tecnologias
